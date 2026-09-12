@@ -7,7 +7,7 @@
     "date": "2026-02-14",
     "description": "Built a prototype for a campus resource sharing platform in a 24-hour team hackathon.",
     "pointsClaimed": 25,
-    "pointsApproved": 22,
+    "pointsApproved": 12,
     "status": "Approved"
   },
   {
@@ -18,7 +18,7 @@
     "date": "2026-03-04",
     "description": "Participated in a public cleanup and waste segregation awareness activity.",
     "pointsClaimed": 15,
-    "pointsApproved": 15,
+    "pointsApproved": 8,
     "status": "Approved"
   },
   {
@@ -40,7 +40,7 @@
     "date": "2026-05-02",
     "description": "Coordinated weekly peer-learning sessions for web development.",
     "pointsClaimed": 20,
-    "pointsApproved": 18,
+    "pointsApproved": 8,
     "status": "Approved"
   },
   {
@@ -73,7 +73,7 @@
     "date": "2026-01-22",
     "description": "Attended a hands-on workshop covering machine learning models and practical AI applications.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 6,
     "status": "Approved"
   },
   {
@@ -84,25 +84,25 @@
     "date": "2026-02-05",
     "description": "Completed an online certification program focused on Python programming and problem solving.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 5,
     "status": "Approved"
   },
   {
     "id": 9,
     "studentUid": "STU2026001",
     "title": "Paper Presentation on Artificial Intelligence",
-    "category": "academic",
+    "category": "technical",
     "date": "2026-03-18",
     "description": "Presented a technical paper on the applications of artificial intelligence in education.",
     "pointsClaimed": 15,
-    "pointsApproved": 15,
+    "pointsApproved": 7,
     "status": "Approved"
   },
   {
     "id": 10,
     "studentUid": "STU2026001",
     "title": "Inter-College Quiz Competition",
-    "category": "academic",
+    "category": "technical",
     "date": "2026-04-07",
     "description": "Participated in an inter-college technology and general knowledge quiz.",
     "pointsClaimed": 8,
@@ -117,7 +117,7 @@
     "date": "2026-04-28",
     "description": "Volunteered in the organization and coordination of the annual college technology festival.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 4,
     "status": "Approved"
   },
   {
@@ -139,7 +139,7 @@
     "date": "2026-05-22",
     "description": "Participated in a campus environmental awareness campaign promoting waste reduction.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 4,
     "status": "Approved"
   },
   {
@@ -161,7 +161,7 @@
     "date": "2026-07-02",
     "description": "Participated in a competitive programming event organized by the computer science department.",
     "pointsClaimed": 15,
-    "pointsApproved": 15,
+    "pointsApproved": 4,
     "status": "Approved"
   },
   {
@@ -183,7 +183,7 @@
     "date": "2026-07-20",
     "description": "Participated in a college photography competition based on the theme of campus life.",
     "pointsClaimed": 8,
-    "pointsApproved": 8,
+    "pointsApproved": 3,
     "status": "Approved"
   },
   {
@@ -205,7 +205,7 @@
     "date": "2026-08-11",
     "description": "Volunteered in a community service program organized by the college social outreach club.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 4,
     "status": "Approved"
   },
   {
@@ -227,7 +227,7 @@
     "date": "2026-03-11",
     "description": "Represented the college in an inter-college basketball tournament.",
     "pointsClaimed": 15,
-    "pointsApproved": 15,
+    "pointsApproved": 10,
     "status": "Approved"
   },
   {
@@ -249,7 +249,7 @@
     "date": "2026-05-08",
     "description": "Participated in the annual college cultural festival.",
     "pointsClaimed": 10,
-    "pointsApproved": 10,
+    "pointsApproved": 7,
     "status": "Approved"
   },
   {
