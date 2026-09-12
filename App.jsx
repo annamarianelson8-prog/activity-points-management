@@ -1,5 +1,8 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Link, Navigate, NavLink, Route, Routes, useNavigate, useParams } from "react-router-dom";
+import studentsData from "./students.json";
+import categoriesData from "./categories.json";
+import activitiesData from "./activities.json";
 import {
   Activity,
   Award,
@@ -34,22 +37,12 @@ function getCategoryName(categories, id) {
 }
 
 function useJsonData() {
-  const [data, setData] = useState({ students: [], categories: [], activities: [] });
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    Promise.all([
-     fetch(`${import.meta.env.BASE_URL}students.json`).then((response) => response.json()),
-     fetch(`${import.meta.env.BASE_URL}categories.json`).then((response) => response.json()),
-     fetch(`${import.meta.env.BASE_URL}activities.json`).then((response) => response.json())
-    ])
-      .then(([students, categories, activities]) => {
-        setData({ students, categories, activities });
-      })
-      .finally(() => setLoading(false));
-  }, []);
-
-  return { ...data, loading };
+  return {
+    students: studentsData,
+    categories: categoriesData,
+    activities: activitiesData,
+    loading: false
+  };
 }
 
 function ProtectedRoute({ student, children }) {
