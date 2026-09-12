@@ -2,12 +2,12 @@
   {
     "uid": "STU2026001",
     "password": "student123",
-    "name": "Ananya Sharma",
-    "department": "Computer Science and Engineering",
+    "name": "Anna Maria Nelson",
+    "department": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
     "semester": 5,
-    "email": "ananya.sharma@example.edu",
+    "email": "anna@example.edu",
     "phone": "+91 98765 43210",
-    "mentor": "Dr. Meera Nair",
+    "mentor": "Dr. SREEJA ",
     "batch": "2024-2028",
     "requiredPoints": 100
   },
