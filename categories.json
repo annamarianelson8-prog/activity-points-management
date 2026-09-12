@@ -1,0 +1,38 @@
+[
+  {
+    "id": "technical",
+    "name": "Technical and Professional",
+    "description": "Workshops, coding contests, paper presentations, technical clubs, internships, and certifications.",
+    "suggestedRange": "10-30 points"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "description": "College, university, district, state, and national level sports participation or achievements.",
+    "suggestedRange": "5-25 points"
+  },
+  {
+    "id": "cultural",
+    "name": "Cultural Activities",
+    "description": "Music, dance, drama, fine arts, literary events, college fests, and cultural competitions.",
+    "suggestedRange": "5-20 points"
+  },
+  {
+    "id": "social",
+    "name": "Social Service",
+    "description": "NSS, blood donation camps, awareness drives, environmental work, and community service.",
+    "suggestedRange": "5-25 points"
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "description": "Startup events, business plan competitions, innovation challenges, incubation programs, and product demos.",
+    "suggestedRange": "10-30 points"
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "description": "Event coordination, student council work, club leadership, volunteering, and team management.",
+    "suggestedRange": "5-20 points"
+  }
+]

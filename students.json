@@ -1,0 +1,26 @@
+[
+  {
+    "uid": "STU2026001",
+    "password": "student123",
+    "name": "Ananya Sharma",
+    "department": "Computer Science and Engineering",
+    "semester": 5,
+    "email": "ananya.sharma@example.edu",
+    "phone": "+91 98765 43210",
+    "mentor": "Dr. Meera Nair",
+    "batch": "2024-2028",
+    "requiredPoints": 100
+  },
+  {
+    "uid": "STU2026002",
+    "password": "student456",
+    "name": "Rohan Menon",
+    "department": "Information Technology",
+    "semester": 5,
+    "email": "rohan.menon@example.edu",
+    "phone": "+91 98765 43111",
+    "mentor": "Prof. Arjun Rao",
+    "batch": "2024-2028",
+    "requiredPoints": 100
+  }
+]
