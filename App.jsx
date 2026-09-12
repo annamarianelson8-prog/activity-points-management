@@ -39,9 +39,9 @@ function useJsonData() {
 
   useEffect(() => {
     Promise.all([
-      fetch("./data/students.json").then((response) => response.json()),
-      fetch("./data/categories.json").then((response) => response.json()),
-      fetch("./data/activities.json").then((response) => response.json())
+     fetch("./students.json").then((response) => response.json()),
+     fetch("./categories.json").then((response) => response.json()),
+     fetch("./activities.json").then((response) => response.json())
     ])
       .then(([students, categories, activities]) => {
         setData({ students, categories, activities });
